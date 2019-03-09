@@ -28,5 +28,5 @@ R15,R267,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,~,,
 R16,R267,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,~,,
 U1,LM7805_TO220,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.fairchildsemi.com/ds/LM/LM7805.pdf,,
 U2,PC847,Package_DIP:DIP-16_W7.62mm,http://www.soselectronic.cz/a_info/resource/d/pc817.pdf,,
-U3,SSMicro,SS_Micro:SS_Micro,,,
-U4,APT_X_Bluetooth,SS_Micro:DIP-20_1200_ELL,,,
+U3,SSMicro,SS_Micro:SS_Micro,,,"https://www.aliexpress.com/item/Free-shipping-SS-micro-ATMEGA32U4-module-compatible-for-arduino-pro-micro/32660718568.html?spm=2114.search0104.3.2.6b071d34ifMDsY&ws_ab_test=searchweb0_0,searchweb201602_3_10065_10068_10130_10547_319_317_10548_10696_453_10084_454_10083_10618_10307_537_536_10131_10132_10902_10133_10059_10884_10887_321_322_10103,searchweb201603_6,ppcSwitch_0&algo_expid=89283a5d-8a84-4d8a-aa21-38fdb3e2278e-0&algo_pvid=89283a5d-8a84-4d8a-aa21-38fdb3e2278e"
+U4,APT_X_Bluetooth,SS_Micro:DIP-20_1200_ELL,,,"https://www.aliexpress.com/item/CSR8645-APT-X-HIFI-Bluetooth-4-0-12V-Receiver-Board-for-Car-Amplifier-Speaker/32869965857.html?spm=2114.search0104.3.22.65d76be5IFxiAz&ws_ab_test=searchweb0_0,searchweb201602_3_10065_10068_10130_10547_319_317_10548_10696_453_10084_454_10083_10618_10307_537_536_10131_10132_10902_10133_10059_10884_10887_321_322_10103,searchweb201603_6,ppcSwitch_0&algo_expid=eede32d0-7e69-428b-86b3-611ed77cad83-3&algo_pvid=eede32d0-7e69-428b-86b3-611ed77cad83"
